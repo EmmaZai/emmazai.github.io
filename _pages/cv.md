@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Economics, Jilin University, Changchun, China, 2014
+* M.A. in Economics, Fudan University, Shanghai, China, 2017
+* Ph.D in Consumer Sciences (Economics Track), Ohio State University, Columbus, United States, 2021 (expected)
 
 Work experience
 ======
