@@ -8,5 +8,5 @@ redirect_from:
   - /educationinchina.html
 ---
 
- "<br/><img src='/images/education_timeline.png'>"
+ <br/><img src='/images/education_timeline.png'>
 
