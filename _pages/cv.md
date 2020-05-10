@@ -4,10 +4,13 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
 {% include base_path %}
+
+[*Resume PDF*](http://emmazai.github.io/files/paper1.pdf)
+
 
 Education
 ======
