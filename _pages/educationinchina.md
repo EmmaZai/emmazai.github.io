@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Features in education"
 permalink: /educationinchina/
 author_profile: true
@@ -7,12 +6,10 @@ redirect_from:
   - /educationinchina/
 ---
 
-
 School timeline (e.g. Emma's experience)
 ======
 
- <br/><img src='/images/education_timeline.png'>
-
+ <br/><img src='/images/education_timeline1.png'>
 
 Admission rules
 ======
