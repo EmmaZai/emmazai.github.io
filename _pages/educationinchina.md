@@ -1,10 +1,10 @@
 ---
-permalink: /educationinchina/
+layout: archive
 title: "Features in education"
+permalink: /educationinchina/
 author_profile: true
 redirect_from: 
   - /educationinchina/
-  - /educationinchina.html
 ---
 
 
