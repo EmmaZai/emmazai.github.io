@@ -187,17 +187,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  research:
-    output: true
-    permalink: /:collection/:path/
-  jmp:
-    output: true
-    permalink: /:collection/:path/
-  educationinchina:
-    output: true
-    permalink: /:collection/:path/  
-    
-    
+      
 # Defaults
 defaults:
   # _posts
