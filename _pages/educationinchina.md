@@ -3,6 +3,8 @@ layout: archive
 title: "Education in China"
 permalink: /educationinchina/
 author_profile: true
+redirect_from:
+  - /educationinchina
 ---
 
 {% include base_path %}
