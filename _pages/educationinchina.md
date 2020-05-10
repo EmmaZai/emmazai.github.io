@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /educationinchina/
 title: "Features in education"
 author_profile: true
 redirect_from: 
