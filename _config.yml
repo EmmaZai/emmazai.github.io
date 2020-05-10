@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "zai.2@osu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -211,7 +211,7 @@ defaults:
   # _JMP
   - scope:
       path: ""
-      type: JMP
+      type: jmp
     values:
       layout: single
       author_profile: true
@@ -238,7 +238,7 @@ defaults:
   # _educationinchina
   - scope:
       path: ""
-      type: education in china
+      type: educationinchina
     values:
       layout: single
       author_profile: true
