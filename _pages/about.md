@@ -15,7 +15,6 @@ Job market paper
 ======
 My job market paper is about the Long-Term Services and Supports (LTSS) in the United States and studies the informal caregivers affected by Medicaid aging waiver programs.
 
-<br/><img src='/images/education_timeline.png'>
 
 For more info
 ======
