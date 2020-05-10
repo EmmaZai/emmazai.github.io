@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Emma Xianhua Zai / Personal Website"
+title                    : "Xianhua Zai / Personal Website"
 title_separator          : "-"
 name                     : &name "Emma Zai"
 description              : &description "personal description"
 url                      : https://emmazai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "emmazai/emmazai.github.io"
+repository               : "EmmaZai/emmazai.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "zai.2@osu.edu"
   generatedFields:
     date:
       type               : "date"
@@ -83,7 +83,7 @@ author:
   name             : "Emma Zai"
   avatar           : "profile.png"
   bio              : 
-  location         : "Location"
+  location         : "Columbus, OH"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _research
   - scope:
       path: ""
-      type: portfolio
+      type: research
     values:
       layout: single
       author_profile: true
@@ -239,9 +239,9 @@ defaults:
   # _educationinchina
   - scope:
       path: ""
-      type: talks
+      type: education in china
     values:
-      layout: education in china
+      layout: single
       author_profile: true
       share: true
 
