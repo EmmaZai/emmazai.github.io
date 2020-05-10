@@ -8,6 +8,8 @@ redirect_from:
   - /educationinchina.html
 ---
 
+{% include base_path %}
+
 ## School timeline (e.g. Emma's experience)
 
 excerpt: "<br/><img src='/images/education_timeline.png'>"
