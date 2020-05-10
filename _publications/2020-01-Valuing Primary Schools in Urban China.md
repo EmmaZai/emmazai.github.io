@@ -7,5 +7,6 @@ date: 2020-01
 venue: 'Journal of Urban Economics'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Jimmy Chan, Xian Fang, Zhi Wang, Xianhua Zai and Qinghua Zhang. (2020). &quot;Valuing primary schools in urban China.&quot; <i>Journal of Urban Economics</i>. 115.'
+---
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
