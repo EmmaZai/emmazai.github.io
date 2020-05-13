@@ -8,16 +8,20 @@ redirect_from:
 ---
 
 
-## _School timeline_ (e.g. Emma's experience)
+## _School timeline (e.g. Emma's experience)_
 
  <br/><img src='/images/education_timeline1.png'>
 
 
 
-## Admission rules ([details](https://emmazai.github.io/research/))
+## _Admission rules ([details](https://emmazai.github.io/research/))_
 
 * Prioritized residence-based admission system
 * Homeowners first, then renters
 * Locals first, then immigrants
 
 
+School attendance zones
+======
+
+ <br/><img src='/images/A screenshot of continuous school districts.jpg'>
