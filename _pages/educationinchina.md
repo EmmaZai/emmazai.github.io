@@ -7,6 +7,8 @@ redirect_from:
   - /education
 ---
 
+
+
 School timeline (e.g. Emma's experience)
 ======
 
