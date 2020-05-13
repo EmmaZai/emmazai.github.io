@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## School timeline (e.g. Emma's experience)
+## _School timeline_ (e.g. Emma's experience)
 
  <br/><img src='/images/education_timeline1.png'>
 
