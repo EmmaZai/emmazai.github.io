@@ -23,7 +23,7 @@ redirect_from:
 
 School attendance zones
 ======
-Each April, the department of education publicizes school-address attendance rules. Each school encompasses a list of addresses which are the attendance zone. In general, school attendance zones are adjacent. The left and right graphs represent a snapshot of the attendance zones while the middle graph lays out the full picture of attendance zones in one city of China. 
+Each April, the department of education publicizes school-address attendance rules. Each school encompasses a list of addresses which are the attendance zone. In general, school attendance zones are adjacent. The top and bottom graphs represent a snapshot of the attendance zones while the middle graph lays out the full picture of attendance zones in one city of China. 
 
  <br/><img src='/images/School attendance zones.jpg'>
  <br/><img src='/images/School districts in Shanghai China.jpg'>
