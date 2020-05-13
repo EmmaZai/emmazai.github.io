@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[*Resume PDF*](http://emmazai.github.io/files/paper1.pdf)
+[*Resume PDF*](http://emmazai.github.io/files/cv_may.pdf)
 
 
 Education
@@ -18,45 +18,28 @@ Education
 * M.A. in Economics, Fudan University, Shanghai, China, 2017
 * Ph.D in Consumer Sciences (Economics Track), Ohio State University, Columbus, United States, 2021 (expected)
 
-Work experience
+Honors & Awards
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jean S. Bowers/Fern E. Hunt Fellowship ($6,000), College of Education and Human Ecology, OSU, 2020-
+2021.
+* Junior Scholar Intensive Training (JSIT), Center for Financial Security (CFS) Retirement and Disability
+Center, University of Wisconsin-Madison, 2020.
+* ACCI Student Professional Conference Scholarship, 2018, 2019.
+* Graduate Student Professional Travel Awards, College of Education and Human Ecology, OSU, 2017-
+2019.
+* Hua Meng Scholarship, Education Development Foundation, China, 2017-2020.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Chan, J., X. Fang, Z. Wang, X. Zai, Q. Zhang (2020). [Valuing Primary Schools in Urban China](https://emmazai.github.io/research/). Journal of Urban Economics, Volume 115.
   
-Talks
+Working Papers
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Hanna S. D., K. T. Kim and X. Zai Racial/Ethnic Differences in the Distribution of Wealth in the United States
+* Loibl, C. and X. Zai Individual Differences and Saving Behavior Among Low-Income Individuals.
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* CSCFFS 4270 – Retirement Planning and Employee Benefits (Undergraduate) (Autumn 2020)
+* CONSCI 2910 – Consumer Problems and Perspectives (Undergraduate) (2017-2019)
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
