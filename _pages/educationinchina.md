@@ -15,7 +15,7 @@ School timeline (e.g. Emma's experience)
  <br/><img src='/images/education_timeline1.png'>
 
 
-Admission rules ([details](/research/))
+Admission rules ([details](https://emmazai.github.io/research/))
 ======
 * Prioritized residence-based admission system
 * Homeowners first, then renters
