@@ -14,20 +14,20 @@ redirect_from:
 
 Education
 ======
-* B.A. in Economics, Jilin University, Changchun, China, 2014
-* M.A. in Economics, Fudan University, Shanghai, China, 2017
 * Ph.D in Consumer Sciences (Economics Track), Ohio State University, Columbus, United States, 2021 (expected)
+* M.A. in Economics, Fudan University, Shanghai, China, 2017
+* B.A. in Economics, Jilin University, Changchun, China, 2014
+
 
 Honors & Awards
 ======
-* Jean S. Bowers/Fern E. Hunt Fellowship ($6,000), College of Education and Human Ecology, OSU, 2020-
-2021.
-* Junior Scholar Intensive Training (JSIT), Center for Financial Security (CFS) Retirement and Disability
-Center, University of Wisconsin-Madison, 2020.
+* Jean S. Bowers/Fern E. Hunt Fellowship, OSU, 2020-2021 ($6,000)
+* Small Grants Award, University of Wisconsin-Madison, 2020-2021 ($5,000)
+* Hua Meng Scholarship, Education Development Foundation 2017-2020 ($20,000)
+* Scholar of Junior Scholar Intensive Training Program, University of Wisconsin-Madison, 2020
 * ACCI Student Professional Conference Scholarship, 2018, 2019.
-* Graduate Student Professional Travel Awards, College of Education and Human Ecology, OSU, 2017-
-2019.
-* Hua Meng Scholarship, Education Development Foundation, China, 2017-2020.
+* Graduate Student Professional Travel Awards, OSU, 2017-2019.
+
   
 Publications
 ======
@@ -40,6 +40,6 @@ Working Papers
   
 Teaching
 ======
-* CSCFFS 4270 – Retirement Planning and Employee Benefits (Undergraduate) (Autumn 2020)
-* CONSCI 2910 – Consumer Problems and Perspectives (Undergraduate) (2017-2019)
+* Retirement Planning and Employee Benefits (Undergraduate) (Autumn 2020)
+* Consumer Problems and Perspectives (Undergraduate) (2017-2019)
   
