@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an empirical economist with interests in economics of aging, education and health economics. My research ranges from studying educational contexts in China to pressing aging issues in the United States.
+I am a Ph.D. candidata at the Ohio State University. I am an empirical economist with interests in economics of aging, education and health economics. My research ranges from studying educational contexts in China to pressing aging issues in the United States.
 
 I am on the job market during the 2020-2021 academic year.
 
 Job market paper
 ======
-My job market paper is about the Long-Term Services and Supports (LTSS) in the United States and studies the informal caregivers affected by Medicaid aging waiver programs.
+My job market paper is about the long-term care in the United States and studies the informal caregivers affected by Medicaid aging waiver programs.
 
 
 For more info
