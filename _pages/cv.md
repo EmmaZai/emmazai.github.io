@@ -33,10 +33,6 @@ Publications
 ======
 Chan, J., X. Fang, Z. Wang, X. Zai, Q. Zhang (2020). [Valuing Primary Schools in Urban China](https://emmazai.github.io/research/). Journal of Urban Economics, Volume 115.
   
-Working Papers
-======
-* Hanna S. D., K. T. Kim and X. Zai Racial/Ethnic Differences in the Distribution of Wealth in the United States
-* Loibl, C. and X. Zai Individual Differences and Saving Behavior Among Low-Income Individuals.
   
 Teaching
 ======
