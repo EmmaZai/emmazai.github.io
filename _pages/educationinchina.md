@@ -18,7 +18,7 @@ redirect_from:
 
 * Prioritized residence-based admission system
 * Homeowners first, then renters
-* Locals first, then immigrants
+* Locals first, then migrants
 
 
 School attendance zones
