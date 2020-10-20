@@ -18,11 +18,8 @@ We study the effect of school quality on housing prices in urban China. Our obje
 [Graphs of education in China](https://emmazai.github.io/files/EducationinChina.pdf)
 
 
-Work in progress
+Working papers
 ======
-## The Effect of Informal Caregiving on Labor Market Outcomes: Evidence from Medicaid Aging Waivers 
-
-This paper provides evidence that Medicaid aging waivers increase caregiving hours for intensive caregivers and diminishes their labor market performance. I utilize Medicaid aging waiver spending for each state from year 1995 to 2014, which I combine with Health and Retirement Study (HRS) public and restricted geographic data on informal caregiving and labor market details of respondents and state of residence of their parents. I exploit exogenous variation in Medicaid aging waiver spending resulting from the unique design of aging waiver application which predicts the enrollment and expenditures for the future years. The Medicaid aging waiver funding variations across years and states generate policy-induced exogeneity. I find that an increase in Medicaid aging waiver spending increases caregiving hours for intensive caregivers and has negligible effect on less intensive or non-caregivers, thus deteriorating labor market outcomes for intensive caregivers. 
 
 ## Racial/Ethnic Differences in the Distribution of Wealth in the United States (with Sherman Hanna and Kyoung Kim)
 
@@ -31,4 +28,9 @@ This study examines racial/ethnic differences in the distribution of wealth in t
 ## Individual Differences and Saving Behavior Among Low-Income Individuals (with Caezilia Loibl)
 
 Though saving is important to many families in poverty, it can appear to be an insurmountable task in the context of day-to-day efforts to make ends meet. To help low-income households gain self-sufficiency and build wealth, the U.S. Congress initiated the Individual Development Account (IDA) program in 1998. This study examines survey data of 668 participants in the IDA program to investigate psychological factors that influence savings behavior. In particular, we propose, based on findings in the behavioral economics literature, that liquidity constraints may not fully explain savings deposits of IDA program participants and hypothesize that psychological factors, especially time preference, may also influence savings behavior. Survey data show that for our sample of IDA program participants, a stronger orientation toward the future is associated with a higher ability to save. The findings help policymakers better understand the saving incentives among low-income individuals and inform the design of community-based savings programs.
+
+Work in progress
+======
+## The Effect of Informal Caregiving on Labor Market Outcomes: Evidence from Medicaid Aging Waivers 
+## The Effect of Medicaid Disability Waivers on SSDI or SSI Application and Participation
 
