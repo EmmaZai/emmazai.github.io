@@ -9,7 +9,7 @@ author_profile: true
 Publication
 ======
 
-## [Valuing Primary Schools in Urban China](https://emmazai.github.io/files/paper1.pdf)
+## [Valuing Primary Schools in Urban China](https://emmazai.github.io/files/Value primary schools in urban China.pdf)
 
 with [Jimmy Chan](https://jimmyhingchan.weebly.com/), [Zhi Wang](http://homepage.fudan.edu.cn/wangzhi2013brownecon/), [Qinghua Zhang](http://crm.gsm.pku.edu.cn/psc/CRMPRD/EMPLOYEE/CRM/s/WEBLIB_SPE_ISCT.TZ_SETSPE_ISCRIPT.FieldFormula.IScript_SpecialPages?TZ_SPE_ID=118) and Xian Fang, _Journal of Urban Economics_, January 2020
 
