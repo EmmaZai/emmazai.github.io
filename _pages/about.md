@@ -19,4 +19,4 @@ My job market paper is about the long-term care in the United States and studies
 
 For more info
 ======
-More info about me can be found in [the cv](https://emmazai.github.io/cv/). For people who are interested in education system in China, the [Education in China](https://emmazai.github.io/educationinchina/) might also be helpful.
+More info about me can be found in [the CV page](https://emmazai.github.io/cv/). For people who are interested in education system in China, the [Education in China page](https://emmazai.github.io/educationinchina/) might also be helpful.
