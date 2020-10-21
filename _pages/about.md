@@ -1,9 +1,6 @@
 ---
-permalink: /about/
-layout: archive
 title: "About"
 excerpt: "About me"
-permalink: /about/
 author_profile: true
 redirect_from: 
   - /about/
