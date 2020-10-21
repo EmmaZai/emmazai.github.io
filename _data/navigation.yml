@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "JMP"
-    url: /jmp/
+  - title: "Home"
+    url: /about/
     
   - title: "Research"
     url: /research/
