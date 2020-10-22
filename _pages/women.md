@@ -15,4 +15,4 @@ strong support network for women to exchange experiences, research ideas, and th
 I served as GWIE Co-Founder and have been part of GWIE's Leadership since 2018. 
 
 Visit our [website](http://org.osu.edu/graduate-women-in-economics/) to learn more about our activities and events!
-For any inquiry, contact us at: GraduateWomenInEconomics@osu.edu. <p><a href="mailto:GraduateWomenInEconomics@osu.edu">GraduateWomenInEconomics@osu.edu</a></p>
+For any inquiry, contact us at: <p><a href="mailto:GraduateWomenInEconomics@osu.edu">GraduateWomenInEconomics@osu.edu</a></p>
