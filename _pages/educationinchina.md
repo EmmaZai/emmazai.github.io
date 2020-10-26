@@ -31,4 +31,7 @@ Each April, the department of education publicizes school-address attendance rul
  <p align="center">
   <img src='/images/School districts in Shanghai China.jpg' height="50%" width="50%" >
 </p>
- <br/><p align="center"><img src='/images/A screenshot of continuous school districts.jpg' height="50%" width="50%" > </p>
+ <br/>
+ <p align="center">
+  <img src='/images/A screenshot of continuous school districts.jpg' height="50%" width="50%" > 
+</p>
