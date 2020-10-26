@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Emma Zai"
-  avatar           : "Emma.JPG"
+  avatar           : "Emma.JPG width="50%" height="50%""
   bio              : "PhD Candidate, Department of Human Sciences, The Ohio State University"
   location         : "Columbus, OH"
   employer         :
