@@ -6,14 +6,12 @@ author_profile: true
 ---
 Job Market Paper
 ======
-
 ## The Unintended Effect of Medicaid Aging Waivers on Informal Care
 
 Medicaid aging waivers aim to incentivize older adults who need long-term care to stay at home and age in place. This policy might affect the informal caregiving decisions provided by family members. Specifically, I focus on individuals' caregiving behavior towards their older parents and provide the first empirical study on whether Medicaid aging waivers affect the composition of care and caregivers. I utilize the Medicaid aging waiver expenditures for each state from 1998 to 2014 and link them with the Health and Retirement Study (HRS) data based on the state of residence of individuals' parents. The unique design of Medicaid aging waivers provides a quasi-experiment on the timing of funding change of this program which allows me to use difference-in-differences to identify its causal estimates on informal care.  I compare the informal care outcomes in treated states in the years when they change the funding level of Medicaid aging waivers and that of control states with no change in funding of this policy. The findings show that a 10 percent increase in Medicaid aging waiver funding increases the likelihood of an adult child becoming an informal caregiver by 0.10 percentage point (0.3 percent). This effect is larger on caregivers who provide errands assistance, by 0.16 percentage point (0.5 percent). The effect of Medicaid aging waivers on caregivers who offer personal care is negative and the magnitude is 0.07 percentage point (0.8 percent). The Medicaid aging waiver affects non-intensive caregivers most and have a limited effect on intensive caregivers. Moreover, this policy affects female and male caregivers almost equally.
 
 Publications
 ======
-
 ## [Valuing Primary Schools in Urban China](https://emmazai.github.io/files/Value primary schools in urban China.pdf)
 
 with [Jimmy Chan](https://jimmyhingchan.weebly.com/), [Zhi Wang](http://homepage.fudan.edu.cn/wangzhi2013brownecon/), [Qinghua Zhang](http://crm.gsm.pku.edu.cn/psc/CRMPRD/EMPLOYEE/CRM/s/WEBLIB_SPE_ISCT.TZ_SETSPE_ISCRIPT.FieldFormula.IScript_SpecialPages?TZ_SPE_ID=118) and Xian Fang, _Journal of Urban Economics_, January 2020
@@ -23,9 +21,8 @@ We study the effect of school quality on housing prices in urban China. Our obje
 [Graphs of education in China](https://emmazai.github.io/files/EducationinChina.pdf)
 
 
-Working papers
+Working Papers
 ======
-
 ## Racial/Ethnic Differences in the Distribution of Wealth in the United States (with Sherman Hanna and Kyoung Kim)
 
 This study examines racial/ethnic differences in the distribution of wealth in the United States. Extended from previous studies on racial/ethnic wealth gap, we use quantile regression models and focus on the distribution. Using rich information contained in the new 2016 Survey of Consumer Finances, we find that the median net worth of White households is almost 10 times the median net worth of Black households and over 8 times the median net worth of Hispanic households.  Also, Black households have lower mean net worth than Hispanic households while Asian/other households have lower median but higher mean net worth than White households. We conduct a quantile regression on the Inverse Hyperbolic Sine (IHS) transformation of net worth. At the mean levels of control variables, younger Hispanic households have higher net worth than comparable White households, while older Hispanic households have lower net worth than comparable White households.
@@ -34,7 +31,7 @@ This study examines racial/ethnic differences in the distribution of wealth in t
 
 Though saving is important to many families in poverty, it can appear to be an insurmountable task in the context of day-to-day efforts to make ends meet. To help low-income households gain self-sufficiency and build wealth, the U.S. Congress initiated the Individual Development Account (IDA) program in 1998. This study examines survey and savings deposit data of 668 participants in the IDA program. This work, which is part of a larger research study, investigates psychological factors that influence savings behavior. In particular, we estimate the influence of psychological factors, especially time preference, on savings behavior. We find that a stronger orientation toward the future is associated with a higher ability to save. The findings help policymakers better understand the saving incentives among low-income individuals and inform the design of savings programs.
 
-Work in progress
+Work in Progress
 ======
 The Effect of Informal Caregiving on Labor Market Outcomes: Evidence from Medicaid Aging Waivers <br>
 The Effect of Medicaid Disability Waivers on SSDI or SSI Application and Participation
