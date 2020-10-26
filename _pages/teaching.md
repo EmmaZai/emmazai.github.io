@@ -5,10 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Instructor
+Co-Instructor
 ======
 * CFFS 5250 Retirement Planning and Employee Benefits (Graduate) (Spring 2021-expected)
-* Co-instructor: CFFS 4270 Retirement Planning and Employee Benefits (Autumn 2020) ([syllabus](http://emmazai.github.io/files/CSCFFS 4270_20AU_Course Syllabus.pdf))
+* CFFS 4270 Retirement Planning and Employee Benefits (Autumn 2020) ([syllabus](http://emmazai.github.io/files/CSCFFS 4270_20AU_Course Syllabus.pdf))
 
 
 Teaching Assistant
