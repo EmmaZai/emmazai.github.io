@@ -23,17 +23,17 @@ We study the effect of school quality on housing prices in urban China. Our obje
 
 Working Papers
 ======
-## Racial/Ethnic Differences in the Distribution of Wealth in the United States (with Sherman Hanna and Kyoung Kim)
+## Racial/Ethnic Differences in the Distribution of Wealth in the United States (with [Sherman Hanna](https://u.osu.edu/hanna.1/) and [Kyoung Tae Kim](http://ktkim.people.ua.edu/))
 
 This study examines racial/ethnic differences in the distribution of wealth in the United States. Extended from previous studies on racial/ethnic wealth gap, we use quantile regression models and focus on the distribution. Using rich information contained in the new 2016 Survey of Consumer Finances, we find that the median net worth of White households is almost 10 times the median net worth of Black households and over 8 times the median net worth of Hispanic households.  Also, Black households have lower mean net worth than Hispanic households while Asian/other households have lower median but higher mean net worth than White households. We conduct a quantile regression on the Inverse Hyperbolic Sine (IHS) transformation of net worth. At the mean levels of control variables, younger Hispanic households have higher net worth than comparable White households, while older Hispanic households have lower net worth than comparable White households.
 
-## Individual Differences and Saving Behavior Among Low-Income Individuals (with Caezilia Loibl)
+## Individual Differences and Saving Behavior Among Low-Income Individuals (with [Caezilia Loibl](https://ehe.osu.edu/human-sciences/directory/?id=loibl.3))
 
 Though saving is important to many families in poverty, it can appear to be an insurmountable task in the context of day-to-day efforts to make ends meet. To help low-income households gain self-sufficiency and build wealth, the U.S. Congress initiated the Individual Development Account (IDA) program in 1998. This study examines survey and savings deposit data of 668 participants in the IDA program. This work, which is part of a larger research study, investigates psychological factors that influence savings behavior. In particular, we estimate the influence of psychological factors, especially time preference, on savings behavior. We find that a stronger orientation toward the future is associated with a higher ability to save. The findings help policymakers better understand the saving incentives among low-income individuals and inform the design of savings programs.
 
 Work in Progress
 ======
-The Effect of Informal Caregiving on Labor Market Outcomes: Evidence from Medicaid Aging Waivers (with [Lauren Jones](www.laurenedenjones.com) and [Tansel Yilmazer](https://ehe.osu.edu/human-sciences/directory/?id=yilmazer.2)) <br>
-The Medicaid Waiver Program and Aging in Place (with [Lauren Jones](www.laurenedenjones.com) and [Tansel Yilmazer](https://ehe.osu.edu/human-sciences/directory/?id=yilmazer.2)) <br>
+The Effect of Informal Caregiving on Labor Market Outcomes: Evidence from Medicaid Aging Waivers (with [Lauren Jones](https://sites.google.com/view/laurenjones/home) and [Tansel Yilmazer](https://ehe.osu.edu/human-sciences/directory/?id=yilmazer.2)) <br>
+The Medicaid Waiver Program and Aging in Place (with [Lauren Jones](https://sites.google.com/view/laurenjones/home) and [Tansel Yilmazer](https://ehe.osu.edu/human-sciences/directory/?id=yilmazer.2)) <br>
 The Effect of Medicaid Disability Waivers on SSDI or SSI Application and Participation
 
