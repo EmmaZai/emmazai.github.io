@@ -33,7 +33,7 @@ Though saving is important to many families in poverty, it can appear to be an i
 
 Work in Progress
 ======
-The Effect of Informal Caregiving on Labor Market Outcomes: Evidence from Medicaid Aging Waivers (with Lauren Jones and Tansel Yilmazer) <br>
-The Medicaid Waiver Program and Aging in Place (with Lauren Jones and Tansel Yilmazer) <br>
+The Effect of Informal Caregiving on Labor Market Outcomes: Evidence from Medicaid Aging Waivers (with [Lauren Jones](www.laurenedenjones.com) and [Tansel Yilmazer](https://ehe.osu.edu/human-sciences/directory/?id=yilmazer.2)) <br>
+The Medicaid Waiver Program and Aging in Place (with [Lauren Jones](www.laurenedenjones.com) and [Tansel Yilmazer](https://ehe.osu.edu/human-sciences/directory/?id=yilmazer.2)) <br>
 The Effect of Medicaid Disability Waivers on SSDI or SSI Application and Participation
 
