@@ -14,7 +14,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Consumer Sciences (Economics Track), Ohio State University, Columbus, United States, 2021 (expected)
+* Ph.D in Consumer Sciences (Economics Track), the Ohio State University, Columbus, United States, 2021 (expected)
 * M.A. in Economics, Fudan University, Shanghai, China, 2017
 * B.A. in Economics, Jilin University, Changchun, China, 2014
 
