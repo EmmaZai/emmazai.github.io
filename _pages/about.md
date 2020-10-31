@@ -10,10 +10,9 @@ redirect_from:
 About me
 ======
 
-<dd>
 I am a Ph.D. candidate at the Ohio State University. I am an applied microeconomist with interests in the economics of aging, education and health economics. I use large secondary datasets and research designs to estimate the causal effects of public policy on individual behavior and outcomes. My work is motivated by understanding how government interventions affect individual wellbeing and how individuals respond to public policy. 
 
-I am on the job market during the 2020-2021 academic year. I will be available for interviews at the 2020 EEA Job Market, 2020 CICE Annual Meeting, and the ASSA 2021 Annual Meeting. </dd>
+I am on the job market during the 2020-2021 academic year. I will be available for interviews at the 2020 EEA Job Market, 2020 CICE Annual Meeting, and the ASSA 2021 Annual Meeting. 
 
 Job market paper
 ======
