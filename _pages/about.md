@@ -9,7 +9,7 @@ redirect_from:
 ---
 About me
 ======
-<dt>justify</dt>
+
 <dd>
 I am a Ph.D. candidate at the Ohio State University. I am an applied microeconomist with interests in the economics of aging, education and health economics. I use large secondary datasets and research designs to estimate the causal effects of public policy on individual behavior and outcomes. My work is motivated by understanding how government interventions affect individual wellbeing and how individuals respond to public policy. 
 
