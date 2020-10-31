@@ -18,7 +18,7 @@ individuals to become informal caregivers for their older parents. Using data on
 Medicaid aging waiver expenditures from 1998 to 2014 linked with the Health and Retirement
 Study (HRS), I test whether program funding is associated with the probability that an HRS
 respondent provides informal care to their older parent. Changes to state-level policy funding
-produces a quasi-experiment, which allows me to use two-way fixed effects models to test for a
+produce a quasi-experiment, which allows me to use two-way fixed effects models to test for a
 causal relationship between the program and informal caregiving. My findings reveal that a 10
 percent increase in Medicaid aging waiver expenditures increases the overall likelihood that an
 adult child becomes an informal caregiver to her parent by 0.1 percentage points (0.3 percent).
