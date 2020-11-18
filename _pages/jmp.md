@@ -5,7 +5,7 @@ permalink: /jmp/
 author_profile: true
 ---
 
-## The Unintended Effect of Medicaid Aging Waivers on Informal Caregiving
+## [The Unintended Effect of Medicaid Aging Waivers on Informal Caregiving](https://emmazai.github.io/files/jmp_draft1117_Emma.pdf)
 
 Medicaid aging waivers provide funding for in-home formal care to seniors. Their aim is
 to incentivize older adults who need long-term care to stay at home rather than move into
