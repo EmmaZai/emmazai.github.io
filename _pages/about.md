@@ -15,7 +15,14 @@ I am on the job market during the 2020-2021 academic year. I will be available f
 
 Job market paper
 ======
-My job market paper is about the long-term care in the United States and studies the informal caregivers affected by Medicaid aging waiver programs.
+My job market paper is about the long-term care in the United States and studies the informal caregiving affected by Medicaid aging waiver programs.
+Medicaid aging waivers provide funding for in-home formal care to seniors. Their aim is
+to incentivize older adults who need long-term care to stay at home rather than move into
+a nursing facility. However, this policy may inadvertently shift care burdens onto informal
+caregivers, who would not otherwise be required to care for family members were they to enter
+nursing homes. In this paper, I test whether families respond to Medicaid aging waivers by
+increasing or reducing informal caregiving. 
+More details about my job market paper can be found in [the JMP page](https://emmazai.github.io/jmp/).
 
 
 For more info
