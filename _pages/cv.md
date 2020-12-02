@@ -24,9 +24,10 @@ Honors & Awards
 * Jean S. Bowers/Fern E. Hunt Fellowship, OSU, 2020-2021 ($6,000)
 * Small Grants Award, University of Wisconsin-Madison, 2020-2021 ($5,000)
 * Hua Meng Scholarship, Education Development Foundation 2017-2020 ($20,000)
+* Career Development Grant, Council of Graduate Students, Ohio State University, 2020-2021
 * Scholar of Junior Scholar Intensive Training Program, University of Wisconsin-Madison, 2020
 * ACCI Student Professional Conference Scholarship, 2018, 2019.
-* Graduate Student Professional Travel Awards, OSU, 2017-2019.
+* Graduate Student Professional Travel Awards, Ohio State University, 2017-2019.
 
   
 Publications
