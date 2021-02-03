@@ -4,7 +4,19 @@ title: " "
 permalink: /research/
 author_profile: true
 ---
-Job Market Paper
+
+Publications
+======
+## [Valuing Primary Schools in Urban China](https://emmazai.github.io/files/Value primary schools in urban China.pdf)
+
+with [Jimmy Chan](https://jimmyhingchan.weebly.com/), [Zhi Wang](http://homepage.fudan.edu.cn/wangzhi2013brownecon/), [Qinghua Zhang](http://crm.gsm.pku.edu.cn/psc/CRMPRD/EMPLOYEE/CRM/s/WEBLIB_SPE_ISCT.TZ_SETSPE_ISCRIPT.FieldFormula.IScript_SpecialPages?TZ_SPE_ID=118) and Xian Fang, _Journal of Urban Economics_, January 2020
+
+We study the effect of school quality on housing prices in urban China. Our objective is to provide an estimate of the school quality premium based on the best available data. To account for unobserved neighborhood characteristics, we adopt the boundary-discontinuity design of Black (1999) and the matching strategy proposed by Fack and Grenet (2010). The results suggest that parents value public primary schools that have outstanding records in academic tournaments. The school-quality premium is highly non-linear. While a tournament superstar—a school above the 90th percentile in tournament performance—causes housing prices in its neighborhood to increase by 14 percent, or about 430,000 RMB ($ 60,648), the price difference between non-superstar schools is small.
+
+[Graphs of education in China](https://emmazai.github.io/files/EducationinChina.pdf)
+
+
+Working Papers
 ======
 ## [The Unintended Effect of Medicaid Aging Waivers on Informal Caregiving](https://emmazai.github.io/files/JMP_EmmaZai.pdf)
 
@@ -32,19 +44,6 @@ The results show that non-intensive informal care is a complement for in-home fo
 and provide the first empirical evidence on the effect of the Medicaid aging waivers on the
 composition of care received by older Americans.
 
-Publications
-======
-## [Valuing Primary Schools in Urban China](https://emmazai.github.io/files/Value primary schools in urban China.pdf)
-
-with [Jimmy Chan](https://jimmyhingchan.weebly.com/), [Zhi Wang](http://homepage.fudan.edu.cn/wangzhi2013brownecon/), [Qinghua Zhang](http://crm.gsm.pku.edu.cn/psc/CRMPRD/EMPLOYEE/CRM/s/WEBLIB_SPE_ISCT.TZ_SETSPE_ISCRIPT.FieldFormula.IScript_SpecialPages?TZ_SPE_ID=118) and Xian Fang, _Journal of Urban Economics_, January 2020
-
-We study the effect of school quality on housing prices in urban China. Our objective is to provide an estimate of the school quality premium based on the best available data. To account for unobserved neighborhood characteristics, we adopt the boundary-discontinuity design of Black (1999) and the matching strategy proposed by Fack and Grenet (2010). The results suggest that parents value public primary schools that have outstanding records in academic tournaments. The school-quality premium is highly non-linear. While a tournament superstar—a school above the 90th percentile in tournament performance—causes housing prices in its neighborhood to increase by 14 percent, or about 430,000 RMB ($ 60,648), the price difference between non-superstar schools is small.
-
-[Graphs of education in China](https://emmazai.github.io/files/EducationinChina.pdf)
-
-
-Working Papers
-======
 ## Racial/Ethnic Differences in the Distribution of Wealth in the United States (with [Sherman Hanna](https://u.osu.edu/hanna.1/) and [Kyoung Tae Kim](http://ktkim.people.ua.edu/))
 
 This study examines racial/ethnic differences in the distribution of wealth in the United States. Extended from previous studies on racial/ethnic wealth gap, we use quantile regression models and focus on the distribution. Using rich information contained in the new 2016 Survey of Consumer Finances, we find that the median net worth of White households is almost 10 times the median net worth of Black households and over 8 times the median net worth of Hispanic households.  Also, Black households have lower mean net worth than Hispanic households while Asian/other households have lower median but higher mean net worth than White households. We conduct a quantile regression on the Inverse Hyperbolic Sine (IHS) transformation of net worth. At the mean levels of control variables, younger Hispanic households have higher net worth than comparable White households, while older Hispanic households have lower net worth than comparable White households.
