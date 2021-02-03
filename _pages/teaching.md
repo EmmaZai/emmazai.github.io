@@ -7,7 +7,7 @@ author_profile: true
 
 Co-Instructor
 ======
-* CFFS 5250 Retirement Planning and Employee Benefits (Graduate) (Spring 2021)([syllabus](http://emmazai.github.io/files/CSCFFS 5250_20AU_Course Syllabus.pdf))
+* CFFS 5250 Retirement Planning and Employee Benefits (Graduate) (Spring 2021)([syllabus](http://emmazai.github.io/files/CSCFFS 5250_21SP_Course Syllabus.pdf))
 * CFFS 4270 Retirement Planning and Employee Benefits (Autumn 2020) ([syllabus](http://emmazai.github.io/files/CSCFFS 4270_20AU_Course Syllabus.pdf))
 
 
