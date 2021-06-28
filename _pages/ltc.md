@@ -27,14 +27,13 @@ waivers "waive" these requirements to realize the specific purpose of these prog
 
 Medicaid Aging Waivers
 ======
-Medicaid aging waivers target older adults who are 65 and above. The mission of
-Medicaid aging waivers is to provide LTC for older adults at home as well as to improve
+Medicaid aging waivers target older adults who are 65 and above. The mission of Medicaid aging waivers is to provide LTC for older adults at home as well as to improve
 their quality of life by allowing them to age in place. The specific features of Medicaid
 aging waivers are as follows. First, the Medicaid aging waiver serves only older people
 who are 65 and above with a certain level of LTC needs. Second, each state can set its
 own income and asset eligibility criteria for the Medicaid aging waiver. In 2018, most
 states used 300% Supplemental Security Income (SSI) as the income eligibility cutoff
-(&#36 27,756/year for an individual) and &#36 2,000 as an asset limit. Third, each state has flexibility to determine the scope of services covered in Medicaid aging waivers. Participants in Medicaid aging waivers are informed of all qualified service providers and
+($dollar 27,756/year for an individual) and $2,000 as an asset limit. Third, each state has flexibility to determine the scope of services covered in Medicaid aging waivers. Participants in Medicaid aging waivers are informed of all qualified service providers and
 have freedom to choose any type of provider available in the program. The majority of
 Medicaid aging waivers cover home-based services and equipment or technology
 modifications for the convenience of elderly individuals to stay at home. Enrolled
