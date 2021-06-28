@@ -53,7 +53,7 @@ selection bias by type of care, and gender of caregivers. Estimates without
 accommodating for the differences in endogeneity bias generate findings that conflict
 with previous estimates in the literature.
 
-## The Medicaid Waiver Program and Aging in Place 
+## The Medicaid Aging Waiver Program and Aging in Place 
 
 Medicaid aging waivers subsidize the long-term care of older adults at home
 or in community-based settings. Little is known about how the Medicaid aging waiver
