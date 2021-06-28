@@ -34,7 +34,7 @@ aging waivers are as follows. First, the Medicaid aging waiver serves only older
 who are 65 and above with a certain level of LTC needs. Second, each state can set its
 own income and asset eligibility criteria for the Medicaid aging waiver. In 2018, most
 states used 300% Supplemental Security Income (SSI) as the income eligibility cutoff
-(\\$27,756/year for an individual) and \\$2,000 as an asset limit. Third, each state has  
+(&#36 27,756/year for an individual) and \\$2,000 as an asset limit. Third, each state has  
 flexibility to determine the scope of services covered in Medicaid aging waivers. Participants in Medicaid aging waivers are informed of all qualified service providers and
 have freedom to choose any type of provider available in the program. The majority of
 Medicaid aging waivers cover home-based services and equipment or technology
