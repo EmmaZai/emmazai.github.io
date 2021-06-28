@@ -20,41 +20,55 @@ Working Papers
 ======
 ## [The Unintended Effect of Medicaid Aging Waivers on Informal Caregiving](https://emmazai.github.io/files/JMP_EmmaZai.pdf)
 
-Medicaid aging waivers provide funding for in-home formal care to seniors. Their aim is
-to incentivize older adults who need long-term care to stay at home rather than move into
-a nursing facility. However, this policy may inadvertently shift care burdens onto informal
-caregivers, who would not otherwise be required to care for family members were they to enter
-nursing homes. In this paper, I test whether in-home formal care subsidized by Medicaid aging
-waivers is a substitute or complement for informal care provided by adult children to their
-parents. Using data on state-level Medicaid aging waiver expenditures from 1998 to 2014 linked
-with the restricted access Health and Retirement Study (HRS), I investigate whether program
-funding is associated with the probability that an HRS respondent provides informal care to her
-older parents. Changes to state-level policy funding produce a quasi-experiment, which allows
-me to use two-way fixed effects models to estimate a causal relationship between the program
-and informal caregiving. My findings reveal that a 10 percent increase in Medicaid aging waiver
-expenditures increases the overall likelihood that an adult child becomes an informal caregiver
-to her parents by 0.1 percentage points (0.3 percent). The overall estimate is composed of
-differential effects on different types of care. While policy expenditures are positively related
-to the likelihood of providing help with errands, they are negatively related to the likelihood
-of providing help with personal care (a more intensive form of caregiving). I also find that
-the Medicaid aging waiver funding is positively associated with the likelihood of being a nonintensive
-caregiver who spends fewer hours providing care, but unrelated to the likelihood of
-providing intensive care. Moreover, only female caregivers reduce caregiving for personal care.
-The results show that non-intensive informal care is a complement for in-home formal care,
-and provide the first empirical evidence on the effect of the Medicaid aging waivers on the
+Medicaid aging waivers aim to incentivize older adults who need long-term care to stay at home rather than move
+into a nursing facility. However, this policy may inadvertently shift care burdens onto
+informal caregivers who would not otherwise be required to care for family members were
+they to enter nursing homes. This paper tests whether in-home formal care subsidized
+by aging waivers is a substitute or a complement for informal care provided by adult
+children to their parents. Using data on state-level Medicaid aging waiver expenditures
+from 1998 to 2014 linked with the restricted access Health and Retirement Study (HRS),
+I use two-way fixed effects
+models to estimate a causal relationship between the program and informal caregiving.
+The findings reveal that a 10 percent increase in aging waiver expenditures increases the
+overall likelihood that an adult child becomes an informal caregiver to her parents by 0.1
+percentage points (0.3 percent). The overall estimate is composed of differential effects on
+type of care. While policy expenditures are positively related to the likelihood
+of providing help with errands, they are negatively related to the likelihood of providing
+help with personal care (a more intensive form of caregiving). The Medicaid aging waiver
+funding is positively associated with the likelihood of being a non-intensive caregiver who spends fewer hours providing care, but is unrelated to the likelihood of providing intensive care. Moreover, only female caregivers reduce caregiving for personal care. The results
+show that non-intensive informal care is a complement to in-home formal care. These
+results provide the first empirical evidence of the effect of Medicaid aging waivers on the
 composition of care received by older Americans.
 
-## Racial/Ethnic Differences in the Distribution of Wealth in the United States (with [Sherman Hanna](https://u.osu.edu/hanna.1/) and [Kyoung Tae Kim](http://ktkim.people.ua.edu/))
+## The Effect of Informal Caregiving on Labor Market Outcomes: Evidence from Medicaid Aging Waivers 
 
-This study examines racial/ethnic differences in the distribution of wealth in the United States. Extended from previous studies on racial/ethnic wealth gap, we use quantile regression models and focus on the distribution. Using rich information contained in the new 2016 Survey of Consumer Finances, we find that the median net worth of White households is almost 10 times the median net worth of Black households and over 8 times the median net worth of Hispanic households.  Also, Black households have lower mean net worth than Hispanic households while Asian/other households have lower median but higher mean net worth than White households. We conduct a quantile regression on the Inverse Hyperbolic Sine (IHS) transformation of net worth. At the mean levels of control variables, younger Hispanic households have higher net worth than comparable White households, while older Hispanic households have lower net worth than comparable White households.
+Informal aregiving has enormous costs on caregivers. However, estimating the exact costs of
+informal caregiving on caregivers is diffcult due to the fact that caregivers select into
+caregiving. Existing estimates, therefore, may suffer from selection bias. In this paper,
+I use a new instrumental variable, policy-induced changes in funding to the Medicaid
+aging waiver program, to estimate the labor-market costs of informal caregiving. Using
+the Health and Retirement Study (HRS) from 1998 to 2014, I find that labor force
+participation decreases with informal care. I also demonstrate large differences in
+selection bias by type of care, and gender of caregivers. Estimates without
+accommodating for the differences in endogeneity bias generate findings that conflict
+with previous estimates in the literature.
 
-## Individual Differences and Saving Behavior Among Low-Income Individuals (with [Caezilia Loibl](https://ehe.osu.edu/human-sciences/directory/?id=loibl.3))
+## The Medicaid Waiver Program and Aging in Place 
 
-Though saving is important to many families in poverty, it can appear to be an insurmountable task in the context of day-to-day efforts to make ends meet. To help low-income households gain self-sufficiency and build wealth, the U.S. Congress initiated the Individual Development Account (IDA) program in 1998. This study examines survey and savings deposit data of 668 participants in the IDA program. This work, which is part of a larger research study, investigates psychological factors that influence savings behavior. In particular, we estimate the influence of psychological factors, especially time preference, on savings behavior. We find that a stronger orientation toward the future is associated with a higher ability to save. The findings help policymakers better understand the saving incentives among low-income individuals and inform the design of savings programs.
+Medicaid aging waivers subsidize the long-term care of older adults at home
+or in community-based settings. Little is known about how the Medicaid aging waiver
+program affects the quality of life among the aging population. Using data from the
+Health and Retirement Study (HRS), this paper evaluates the effect of the Medicaid
+aging waiver program on mortality and morbidity of older individuals. The results show that state-level Medicaid aging waiver funding is associated with increases in mortality
+rate among adults over age 70. The policy is positively associated with the probability of
+individuals reporting poor health status, and with the probability that individuals report
+having difficulty in activities of daily living and mobility. Conversely, funding for the aging
+waiver policy is negatively associated with reports of heart-related disease diagnoses, and
+positively associated with cognitive skills of older Americans.
 
 Work in Progress
 ======
-The Effect of Informal Caregiving on Labor Market Outcomes: Evidence from Medicaid Aging Waivers (with [Lauren Jones](https://sites.google.com/view/laurenjones/home) and [Tansel Yilmazer](https://ehe.osu.edu/human-sciences/directory/?id=yilmazer.2)) <br>
-The Medicaid Waiver Program and Aging in Place (with [Lauren Jones](https://sites.google.com/view/laurenjones/home) and [Tansel Yilmazer](https://ehe.osu.edu/human-sciences/directory/?id=yilmazer.2)) <br>
+Racial/Ethnic Differences in the Distribution of Wealth in the United States (with [Sherman Hanna](https://u.osu.edu/hanna.1/) and [Kyoung Tae Kim](http://ktkim.people.ua.edu/)) <br>
+Individual Differences and Saving Behavior among Low-Income Individuals (with [Caezilia Loibl](https://ehe.osu.edu/human-sciences/directory/?id=loibl.3)) <br>
 The Effect of Medicaid Disability Waivers on SSDI or SSI Application and Participation
 
