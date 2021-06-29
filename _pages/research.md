@@ -18,7 +18,7 @@ We study the effect of school quality on housing prices in urban China. Our obje
 
 Working Papers
 ======
-## [The Unintended Effect of Medicaid Aging Waivers on Informal Caregiving](https://emmazai.github.io/files/JMP_EmmaZai.pdf)
+## [The Unintended Effect of Medicaid Aging Waivers on Informal Caregiving](https://emmazai.github.io/files/jmp_draft.pdf)
 
 Medicaid aging waivers aim to incentivize older adults who need long-term care to stay at home rather than move
 into a nursing facility. However, this policy may inadvertently shift care burdens onto
@@ -40,7 +40,7 @@ show that non-intensive informal care is a complement to in-home formal care. Th
 results provide the first empirical evidence of the effect of Medicaid aging waivers on the
 composition of care received by older Americans.
 
-## The Effect of Informal Caregiving on Labor Market Outcomes: Evidence from Medicaid Aging Waivers 
+## [The Effect of Informal Caregiving on Labor Market Outcomes: Evidence from Medicaid Aging Waivers](https://emmazai.github.io/files/chapter2_dis.pdf)
 
 Informal aregiving has enormous costs on caregivers. However, estimating the exact costs of
 informal caregiving on caregivers is diffcult due to the fact that caregivers select into
@@ -53,7 +53,7 @@ selection bias by type of care, and gender of caregivers. Estimates without
 accommodating for the differences in endogeneity bias generate findings that conflict
 with previous estimates in the literature.
 
-## The Medicaid Aging Waiver Program and Aging in Place 
+## [The Medicaid Aging Waiver Program and Aging in Place](https://emmazai.github.io/files/chapter3_dis.pdf) 
 
 Medicaid aging waivers subsidize the long-term care of older adults at home
 or in community-based settings. Little is known about how the Medicaid aging waiver
