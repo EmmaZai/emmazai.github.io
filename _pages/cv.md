@@ -14,7 +14,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Consumer Sciences (Economics Track), the Ohio State University, Columbus, United States, 2021 (expected)
+* Ph.D in Consumer Sciences (Economics Track), the Ohio State University, Columbus, United States, 2021
 * M.A. in Economics, Fudan University, Shanghai, China, 2017
 * B.A. in Economics, Jilin University, Changchun, China, 2014
 
@@ -34,9 +34,4 @@ Publications
 ======
 Chan, J., X. Fang, Z. Wang, X. Zai, Q. Zhang (2020). [Valuing Primary Schools in Urban China](https://emmazai.github.io/research/). Journal of Urban Economics, Volume 115.
   
-  
-Teaching
-======
-* Retirement Planning and Employee Benefits (Undergraduate) (Autumn 2020)
-* Consumer Problems and Perspectives (Undergraduate) (2017-2019)
   
