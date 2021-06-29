@@ -25,7 +25,7 @@ Medicaid state plan programs. For example, Medicaid waivers can select a particu
 population to serve, set limits on participants, and expand coverage through generous financial requirements that are not allowed in regular Medicaid programs. Medicaid
 waivers "waive" these requirements to realize the specific purpose of these programs.
 
-Medicaid Aging Waivers
+[Medicaid Aging Waivers](https://emmazai.github.io/files/agingintro.pdf)
 ======
 Medicaid aging waivers target older adults who are 65 and above. The mission of Medicaid aging waivers is to provide LTC for older adults at home as well as to improve
 their quality of life by allowing them to age in place. The specific features of Medicaid
