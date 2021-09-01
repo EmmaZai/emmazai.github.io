@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[*Resume PDF*](http://emmazai.github.io/files/CV_EmmaZai.pdf)
+[*Resume PDF*](http://emmazai.github.io/files/cv-update.pdf)
 
 
 Education
@@ -21,9 +21,9 @@ Education
 
 Honors & Awards
 ======
-* Jean S. Bowers/Fern E. Hunt Fellowship, OSU, 2020-2021 ($6,000)
-* Small Grants Award, University of Wisconsin-Madison, 2020-2021 ($5,000)
-* Hua Meng Scholarship, Education Development Foundation 2017-2020 ($20,000)
+* Jean S. Bowers/Fern E. Hunt Fellowship, OSU, 2020-2021
+* Small Grants Award, University of Wisconsin-Madison, 2020-2021 
+* Hua Meng Scholarship, Education Development Foundation 2019-2020 
 * Career Development Grant, Council of Graduate Students, Ohio State University, 2020-2021
 * Scholar of Junior Scholar Intensive Training Program, University of Wisconsin-Madison, 2020
 * ACCI Student Professional Conference Scholarship, 2018, 2019.
