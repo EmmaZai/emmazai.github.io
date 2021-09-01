@@ -9,7 +9,7 @@ redirect_from:
 ---
 About me
 ======
-I am a research scientist/post-doc at the [Max Planck Institute for Demographic Research (MPIDR)](https://www.demogr.mpg.de/en).
+I am a research scientist at the [Max Planck Institute for Demographic Research (MPIDR)](https://www.demogr.mpg.de/en).
 My research interests are the economics of aging and health economics. I use large secondary datasets and research designs to estimate the causal effects of public policy on individual behavior and outcomes. My work is motivated by understanding how government interventions affect individual wellbeing and how individuals respond to public policy. 
 
 
