@@ -16,5 +16,5 @@ My research interests are the economics of aging and health economics. I use lar
 For more info
 ======
 More info about me can be found in [the CV page](https://emmazai.github.io/cv/). 
-The [long-term care page](https://emmazai.github.io/ltc/) includes details about public policy in the United States.
+The [Long-Term Care page](https://emmazai.github.io/ltc/) includes details about public policy in the United States.
 The [Education in China page](https://emmazai.github.io/educationinchina/) includes details about the education system in China.
