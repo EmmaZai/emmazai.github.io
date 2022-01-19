@@ -18,7 +18,7 @@ We study the effect of school quality on housing prices in urban China. Our obje
 
 Working Papers
 ======
-## [The Unintended Effect of Medicaid Aging Waivers on Informal Caregiving](https://emmazai.github.io/files/jmp_draft.pdf)(with [Lauren Jones](https://sites.google.com/view/laurenjones/home) and [Tansel Yilmazer](https://ehe.osu.edu/human-sciences/directory/?id=yilmazer.2))
+## [The Unintended Effect of Medicaid Aging Waivers on Informal Caregiving](https://emmazai.github.io/files/jmp_draft.pdf)
 
 Medicaid aging waivers aim to incentivize older adults who need long-term care to stay at home rather than move
 into a nursing facility. However, this policy may inadvertently shift care burdens onto
