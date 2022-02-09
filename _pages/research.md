@@ -18,7 +18,9 @@ We study the effect of school quality on housing prices in urban China. Our obje
 
 Working Papers
 ======
-## [The Unintended Effect of Medicaid Aging Waivers on Informal Caregiving](https://emmazai.github.io/files/jmp_draft.pdf)(with Yinan Liu)(under review)
+## [The Unintended Effect of Medicaid Aging Waivers on Informal Caregiving](https://emmazai.github.io/files/jmp_draft.pdf)
+
+(with Yinan Liu) (under review)
 
 Medicaid aging waivers incentivize older adults who need long-term care to stay at home
 rather than move into a nursing facility. However, this policy may inadvertently shift care
@@ -37,7 +39,9 @@ unrelated to the likelihood of providing personal care and intensive care. The ï
 mainly driven by the mechanism that aging-at-home is more attractive supported by the aging
 waivers.
 
-## [The Effect of Medicaid Home and Community-Based Services on Health Outcomes](https://emmazai.github.io/files/chapter3_dis.pdf) (with Yinan Liu)(under review)
+## [The Effect of Medicaid Home and Community-Based Services on Health Outcomes](https://emmazai.github.io/files/chapter3_dis.pdf) 
+
+(with Yinan Liu) (under review)
 
 The Medicaid Home and Community- Based Services (HCBS) program in the
 United States subsidizes the long-term care provided at home or in community-based
