@@ -39,19 +39,31 @@ unrelated to the likelihood of providing personal care and intensive care. The �
 mainly driven by the mechanism that aging-at-home is more attractive supported by the aging
 waivers.
 
-## [The Effect of Medicaid Home and Community-Based Services on Health Outcomes](https://emmazai.github.io/files/chapter3_dis.pdf) 
+## [The Benefits of Medicaid Home and Community- Based Services on Health](https://emmazai.github.io/files/chapter3_dis.pdf) 
 
 (with Yinan Liu) (under review)
 
-The Medicaid Home and Community- Based Services (HCBS) program in the
-United States subsidizes the long-term care provided at home or in community-based
-settings for older adults. Little is known about how HCBS aﬀects the well-being of
-the aging population. Using detailed information about health from the Health and
-Retirement Study (HRS) linked with state-level HCBS policy expenditures, we show
-that HCBS indeed helps older people avoid institutionalization and stay at home
-longer. Furthermore, the program is positively associated with the probability of
-older individuals reporting better mental health, especially among people with
-limited resources.
+ The Medicaid Home and Community- Based Services (HCBS) program in the United States subsidizes the long-term care provided at home or in community-based settings for older adults. Little is known about how HCBS affects the well-being of the aging population. Using detailed information about health from the Health and Retirement Study (HRS) linked with state-level HCBS policy expenditures, we show that HCBS is beneficial to improve general health outcomes of older individuals. Our results find that HCBS generosity is positively associated with the probability of older individuals self-reporting better health status, mitigating functional mobility limitations, showing better emotional feelings, and increasing cognitive skills. In addition, these health benefits of HCBS differ across groups by resources and demographic characteristics. 
+ 
+## [The Effect of the Partnership Long-Term Care Insurance Program on Private Insurance and Employment](https://emmazai.github.io/files/pltc_employment.pdf) 
+
+(with Yinan Liu) 
+
+The Partnership Long-Term Care Insurance (PLTC) program protects
+policyholders an amount of assets, equivalent with the value of insurance,
+from Medicaid asset requirement. The public-private PLTC program draws
+mixed ﬁndings about its cost-effectiveness. In this paper, we extend current
+discussion by exploring the effect of the partnership program on employment,
+which is little investigated in the literature. Using detailed individual
+information from the Health and Retirement Study (HRS) from 2000 to 2014
+linked with state-level PLTC roll-out information, we ﬁrst ﬁnd that the PLTC
+increases private LTC insurance coverage by 1 to 2 percentage points. In
+addition, the PLTC program increases the probability of nearly-elderly
+individuals (45-65) to work full-time by 3 to 7 percentage points. To better
+understand the unintended labor market effects, we propose a theoretical
+model based on the ”bequest motive” channel. Empirical evidence conﬁrms
+the theoretical prediction that the effect is mainly driven by individuals with
+strong bequest motive who have children and are in well-paid jobs.
 
 
 
