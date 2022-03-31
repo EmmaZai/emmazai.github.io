@@ -41,7 +41,7 @@ waivers.
 
 ## [The Benefits of Medicaid Home and Community- Based Services on Health](https://emmazai.github.io/files/chapter3_dis.pdf) 
 
-(with Yinan Liu) (under review)
+(with Yinan Liu) 
 
  The Medicaid Home and Community- Based Services (HCBS) program in the United States subsidizes the long-term care provided at home or in community-based settings for older adults. Little is known about how HCBS affects the well-being of the aging population. Using detailed information about health from the Health and Retirement Study (HRS) linked with state-level HCBS policy expenditures, we show that HCBS is beneficial to improve general health outcomes of older individuals. Our results find that HCBS generosity is positively associated with the probability of older individuals self-reporting better health status, mitigating functional mobility limitations, showing better emotional feelings, and increasing cognitive skills. In addition, these health benefits of HCBS differ across groups by resources and demographic characteristics. 
  
