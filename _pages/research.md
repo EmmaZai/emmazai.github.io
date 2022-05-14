@@ -39,7 +39,7 @@ unrelated to the likelihood of providing personal care and intensive care. The ï
 mainly driven by the mechanism that aging-at-home is more attractive supported by the aging
 waivers.
 
-## [The Benefits of Medicaid Home and Community- Based Services on Health](https://emmazai.github.io/files/chapter3_dis.pdf) 
+## [The Benefits of Medicaid Home and Community- Based Services on Health](https://emmazai.github.io/files/chapter3_diss.pdf) 
 
 (with Yinan Liu) 
 
