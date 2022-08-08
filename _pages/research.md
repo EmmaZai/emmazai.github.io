@@ -51,7 +51,7 @@ waivers.
 ## [The Power of Public Insurance for the Poor: Evidence from China's New Medical Cooperative Scheme](https://emmazai.github.io/files/ncms_track.pdf) 
 
 (with Lin Lin) 
-## The Effect of Grandparenting on Health (with [Peter Ebich](https://sites.google.com/site/eibichpe/home)
+## The Effect of Grandparenting on Health (with [Peter Ebich](https://sites.google.com/site/eibichpe/home))
 
 
 
