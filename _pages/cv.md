@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[*Resume PDF*](http://emmazai.github.io/files/cv-update.pdf)
+[*Resume PDF*](http://emmazai.github.io/files/cv_update.pdf)
 
 
 Education
