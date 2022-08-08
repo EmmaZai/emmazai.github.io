@@ -43,27 +43,15 @@ waivers.
 
 (with Yinan Liu) 
 
- The Medicaid Home and Community- Based Services (HCBS) program in the United States subsidizes the long-term care provided at home or in community-based settings for older adults. Little is known about how HCBS affects the well-being of the aging population. Using detailed information about health from the Health and Retirement Study (HRS) linked with state-level HCBS policy expenditures, we show that HCBS is beneficial to improve general health outcomes of older individuals. Our results find that HCBS generosity is positively associated with the probability of older individuals self-reporting better health status, mitigating functional mobility limitations, showing better emotional feelings, and increasing cognitive skills. In addition, these health benefits of HCBS differ across groups by resources and demographic characteristics. 
  
 ## [The Effect of the Partnership Long-Term Care Insurance Program on Private Insurance and Employment](https://emmazai.github.io/files/pltc_employment.pdf) 
 
 (with Yinan Liu) 
 
-The Partnership Long-Term Care Insurance (PLTC) program protects
-policyholders an amount of assets, equivalent with the value of insurance,
-from Medicaid asset requirement. The public-private PLTC program draws
-mixed ﬁndings about its cost-effectiveness. In this paper, we extend current
-discussion by exploring the effect of the partnership program on employment,
-which is little investigated in the literature. Using detailed individual
-information from the Health and Retirement Study (HRS) from 2000 to 2014
-linked with state-level PLTC roll-out information, we ﬁrst ﬁnd that the PLTC
-increases private LTC insurance coverage by 1 to 2 percentage points. In
-addition, the PLTC program increases the probability of nearly-elderly
-individuals (45-65) to work full-time by 3 to 7 percentage points. To better
-understand the unintended labor market effects, we propose a theoretical
-model based on the ”bequest motive” channel. Empirical evidence conﬁrms
-the theoretical prediction that the effect is mainly driven by individuals with
-strong bequest motive who have children and are in well-paid jobs.
+## [The Power of Public Insurance for the Poor: Evidence from China's New Medical Cooperative Scheme](https://emmazai.github.io/files/ncms_track.pdf) 
+
+(with Lin Lin) 
+## The Effect of Grandparenting on Health (with [Peter Ebich](https://sites.google.com/site/eibichpe/home)
 
 
 
