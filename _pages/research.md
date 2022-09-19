@@ -22,28 +22,10 @@ Working Papers
 
 (with Yinan Liu) (under review)
 
-Medicaid aging waivers incentivize older adults who need long-term care to stay at home
-rather than move into a nursing facility. However, this policy may inadvertently shift care
-burdens onto informal caregivers. Using data on state-level waiver expenditures from 1998 to
-2014 linked with the restricted access Health and Retirement Study (HRS), this paper
-investigates whether program funding is associated with the probability that an HRS
-respondent provides informal care to her older parents. Changes to state-level policy funding
-produce a quasi-experiment, which allows us to use two-way ﬁxed eﬀects models to estimate a
-causal relationship between the program and informal caregiving. The ﬁndings show that a 10
-percent increase in aging waiver expenditures increases the overall likelihood that an adult
-child becomes an informal caregiver to her parents by 0.1 percentage points (0.3 percent). The
-overall estimate is composed of diﬀerential eﬀects on diﬀerent types of care. The results show
-that the Medicaid aging waiver funding is positively associated with the likelihood of being an
-errands caregiver and a non-intensive caregiver who spends fewer hours providing care, but
-unrelated to the likelihood of providing personal care and intensive care. The ﬁndings are
-mainly driven by the mechanism that aging-at-home is more attractive supported by the aging
-waivers.
-
-## [The Benefits of Medicaid Home and Community- Based Services on Health](https://emmazai.github.io/files/hcbs_health.pdf) 
+## [Does Aging at Home Make Older Adults Healthy: Evidence from Medicaid Home and Community-Based Services](https://emmazai.github.io/files/hcbs_health.pdf) 
 
 (with Yinan Liu) 
 
- 
 ## [The Effect of the Partnership Long-Term Care Insurance Program on Private Insurance and Employment](https://emmazai.github.io/files/pltc_employment.pdf) 
 
 (with Yinan Liu) 
@@ -51,7 +33,7 @@ waivers.
 ## [The Power of Public Insurance for the Poor: Evidence from China's New Medical Cooperative Scheme](https://emmazai.github.io/files/ncms_track.pdf) 
 
 (with Lin Lin) 
-## The Effect of Grandparenting on Health (with [Peter Eibich](https://sites.google.com/site/eibichpe/home))
+## [Are the Grandparents Alright? The Health Consequences of Grandparental Childcare Provision](https://emmazai.github.io/files/The_Effect_of_Grandparenting_on_Health.pdf) (with [Peter Eibich](https://sites.google.com/site/eibichpe/home))
 
 
 
