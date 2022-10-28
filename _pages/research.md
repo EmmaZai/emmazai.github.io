@@ -22,7 +22,7 @@ Working Papers
 
 (with Yinan Liu) (under review)
 
-## [Does Aging at Home Make Older Adults Healthy: Evidence from Medicaid Home and Community-Based Services](https://emmazai.github.io/files/hcbs_health.pdf) 
+## Does Aging at Home Make Older Adults Healthy: Evidence from Medicaid Home and Community-Based Services
 
 (with Yinan Liu) 
 
