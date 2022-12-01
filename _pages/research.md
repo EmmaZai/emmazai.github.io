@@ -22,9 +22,9 @@ Working Papers
 
 (with Yinan Liu) (under review)
 
-## Does Aging at Home Make Older Adults Healthy: Evidence from Medicaid Home and Community-Based Services
+## [Does Aging at Home Make Older Adults Healthy: Evidence from Medicaid Home and Community-Based Services](https://emmazai.github.io/files/hcbs_health.pdf)
 
-(with Yinan Liu) 
+(with Yinan Liu) (under review)
 
 ## [The Effect of the Partnership Long-Term Care Insurance Program on Private Insurance and Employment](https://emmazai.github.io/files/pltc_employment.pdf) 
 
