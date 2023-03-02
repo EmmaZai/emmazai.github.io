@@ -20,11 +20,11 @@ Working Papers
 ======
 ## [The Unintended Effect of Medicaid Aging Waivers on Informal Caregiving](https://emmazai.github.io/files/MAW_care.pdf)
 
-(with Yinan Liu) (under review)
+(with Yinan Liu) 
 
 ## [Does Aging at Home Make Older Adults Healthy: Evidence from Medicaid Home and Community-Based Services](https://emmazai.github.io/files/hcbs_health.pdf)
 
-(with Yinan Liu) (under review)
+(with Yinan Liu) 
 
 ## [The Effect of the Partnership Long-Term Care Insurance Program on Private Insurance and Employment](https://emmazai.github.io/files/pltc_employment.pdf) 
 
