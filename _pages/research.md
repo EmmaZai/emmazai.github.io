@@ -30,7 +30,7 @@ Working Papers
 
 (with Yinan Liu) 
 
-## [The Power of Public Insurance for the Poor: Evidence from China's New Medical Cooperative Scheme](https://emmazai.github.io/files/ncms_track.pdf) 
+## [The Role of Supply Responses in Public Insurance Expansion: Evidence from China's New Cooperative Medical Scheme](https://emmazai.github.io/files/ncms_track.pdf) 
 
 (with Lin Lin) 
 ## [Are the Grandparents Alright? The Health Consequences of Grandparental Childcare Provision](https://emmazai.github.io/files/The_Effect_of_Grandparenting_on_Health.pdf) (with [Peter Eibich](https://sites.google.com/site/eibichpe/home))
