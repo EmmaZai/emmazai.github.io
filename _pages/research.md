@@ -20,19 +20,19 @@ Working Papers
 ======
 ## [The Unintended Effect of Medicaid Aging Waivers on Informal Caregiving](https://emmazai.github.io/files/MAW_care.pdf)
 
-(with Yinan Liu) 
+(with [Yinan Liu](https://www.ynliu.com/) )
 
 ## [Does Aging at Home Make Older Adults Healthy: Evidence from Medicaid Home and Community-Based Services](https://emmazai.github.io/files/hcbs_health.pdf)
 
-(with Yinan Liu) 
+(with [Yinan Liu](https://www.ynliu.com/) )
 
 ## [The Effect of the Partnership Long-Term Care Insurance Program on Private Insurance and Employment](https://emmazai.github.io/files/pltc_employment.pdf) 
 
-(with Yinan Liu) 
+(with [Yinan Liu](https://www.ynliu.com/) ) 
 
 ## [The Role of Supply Responses in Public Insurance Expansion: Evidence from China's New Cooperative Medical Scheme](https://emmazai.github.io/files/ncms_track.pdf) 
 
-(with Lin Lin) 
+(with [Lin Lin](https://faculty.ecnu.edu.cn/_s35/ll2_en_17023/main.psp)) 
 ## [Are the Grandparents Alright? The Health Consequences of Grandparental Childcare Provision](https://emmazai.github.io/files/The_Effect_of_Grandparenting_on_Health.pdf) (with [Peter Eibich](https://sites.google.com/site/eibichpe/home))
 
 
