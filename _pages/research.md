@@ -7,7 +7,7 @@ author_profile: true
 
 Publications
 ======
-## [Beyond the Brink: Unraveling the Opioid Crisis and Its Profound Impacts](https://doi.org/10.1016/j.ehb.2024.101379)
+## [Beyond the Brink: Unraveling the Opioid Crisis and its Profound Impacts](https://doi.org/10.1016/j.ehb.2024.101379)
 _Economics and Human Biology_ (2024)
 ## [Assessing the Impact of Public Insurance on Healthcare Utilization and Mortality: A Nationwide Study in China](https://doi.org/10.1016/j.ssmph.2024.101615) 
 (with Lin Lin), _SSM - Population Health_, 25(2024)
@@ -38,7 +38,8 @@ Working Papers
 <!--## [The Role of Supply Responses in Public Insurance Expansion: Evidence from China's New Cooperative Medical Scheme](https://emmazai.github.io/files/ncms_track.pdf) 
 
 (with [Lin Lin](https://faculty.ecnu.edu.cn/_s35/ll2_en_17023/main.psp)) -->
-## [Are the Grandparents Alright? The Health Consequences of Grandparental Childcare Provision](https://emmazai.github.io/files/The_Effect_of_Grandparenting_on_Health.pdf) (with [Peter Eibich](https://sites.google.com/site/eibichpe/home))
+## [Are the Grandparents Alright? The Health Consequences of Grandparental Childcare Provision](https://emmazai.github.io/files/The_Effect_of_Grandparenting_on_Health.pdf) 
+(with [Peter Eibich](https://sites.google.com/site/eibichpe/home))
 
 
 
