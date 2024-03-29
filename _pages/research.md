@@ -7,7 +7,7 @@ author_profile: true
 
 Publications
 ======
-## [Beyond the Brink: Unraveling the Opioid Crisis and Its Profound Impacts](https://doi.org/10.1016/j.ehb.2024.101379) _Economics and Human Biology_ (2024)
+## [Beyond the Brink: Unraveling the Opioid Crisis and Its Profound Impacts](https://doi.org/10.1016/j.ehb.2024.101379), _Economics and Human Biology_ (2024)
 ## [Assessing the Impact of Public Insurance on Healthcare Utilization and Mortality: A Nationwide Study in China](https://doi.org/10.1016/j.ssmph.2024.101615) (with Lin Lin), _SSM - Population Health_, 25(2024)
 
 
