@@ -20,7 +20,7 @@ EDUCATION
 
 RESEARCH VISITS
 ======
-* Sapienza University of Rome, December 2023
+* Department of Social Science, Sapienza University of Rome, December 2023
 * Department of Economics and Finance, University of Rome Tor Vergata, December 2023
 * Munich Research Institute for the Economics of Aging (MEA), Munich, Germany, October 2023
 * Center for Social Inequalities in Population Health, University of Helsinki, September 2023
