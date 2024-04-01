@@ -8,11 +8,9 @@ author_profile: true
 Publications
 ======
 ## [Beyond the Brink: Unraveling the Opioid Crisis and its Profound Impacts](https://doi.org/10.1016/j.ehb.2024.101379)
-_Economics and Human Biology_ (2024)
+_Economics and Human Biology_ (2024), 53, 101379
 ## [Assessing the Impact of Public Insurance on Healthcare Utilization and Mortality: A Nationwide Study in China](https://doi.org/10.1016/j.ssmph.2024.101615) 
 (with Lin Lin), _SSM - Population Health_, 25(2024)
-
-
 ## [Valuing Primary Schools in Urban China](https://doi.org/10.1016/j.jue.2019.103183)
 with ([Jimmy Chan](https://jimmyhingchan.weebly.com/), [Zhi Wang](https://zhiwang2013brownecon.weebly.com/), [Qinghua Zhang](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=zhangq), and Xian Fang), _Journal of Urban Economics_, 115(2020)
 
