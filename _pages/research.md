@@ -29,9 +29,9 @@ Working Papers
 
 (with [Yinan Liu](https://www.ynliu.com/) )
 
-<!-- ## [Does Aging at Home Make Older Adults Healthy: Evidence from Medicaid Home and Community-Based Services](https://emmazai.github.io/files/hcbs_health.pdf)
+## [Does Aging at Home Make Older Adults Healthy: Evidence from Medicaid Home and Community-Based Services](https://emmazai.github.io/files/hcbs_health.pdf)
 
-(with [Yinan Liu](https://www.ynliu.com/) )  -->
+(with [Yinan Liu](https://www.ynliu.com/) )  
 
 ## [Do safe assets affect the financial decisions of individuals nearing retirement? Evidence from the Partnership for Long-Term Care Program](https://emmazai.github.io/files/pltc_employment.pdf) 
 
@@ -39,7 +39,7 @@ Working Papers
 
 ## [The Role of Supply Responses in Public Insurance Expansion: Evidence from China's New Cooperative Medical Scheme](https://emmazai.github.io/files/ncms_supply.pdf) 
 
-(with [Lin Lin](https://faculty.ecnu.edu.cn/_s35/ll2_en_17023/main.psp))
+(with [Lin Lin](https://faculty.ecnu.edu.cn/_s35/ll2_en_17023/main.psp)) -->
 
--->
+
 
