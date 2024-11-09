@@ -10,7 +10,7 @@ redirect_from:
 About me
 ======
 I am a research scientist at the [Max Planck Institute for Demographic Research (MPIDR)](https://www.demogr.mpg.de/en) and the [Max Planck – University of Helsinki Center for Social Inequalities in Population Health](https://www.helsinki.fi/en/helsinki-institute-demography-and-population-health/maxhel-center).
-My research focuses on aging, long-term care, health inequality, health policy, and overall well-being. I primarily work with large secondary, registry, and administrative datasets to address key questions related to health and policy. My work spans several areas:
+My research centers on the intersections of aging, long-term care, health disparities, and health policy, with a strong focus on improving overall well-being. Utilizing large-scale secondary, registry, and administrative datasets, I aim to answer critical questions that inform health policies and drive equitable care solutions. My work spans the following key areas:
 
 Aging behavior/LTC policy and formal/informal care/wellbeing of older population
 ======
