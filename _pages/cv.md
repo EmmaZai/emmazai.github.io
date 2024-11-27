@@ -29,6 +29,7 @@ RESEARCH VISITS
 HONORS & AWARDS
 ======
 * Kuznets Prize for the Best Paper, Journal of Population Economics, 2025
+* 
 Award for the best paper published in the Journal of Population Economics in the year 2024	
 * Sign Up! For Your Career in Max Planck Society Scholar, 2025
 * AIES Young Research Award, 2023
