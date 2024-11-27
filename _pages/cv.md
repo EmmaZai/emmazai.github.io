@@ -20,6 +20,8 @@ EDUCATION
 
 RESEARCH VISITS
 ======
+* Department of Economic Analysis, Universidad Autónoma de Madrid (UAM), June 2024
+* The Ohio State University, April, 2024
 * Department of Social Science, Sapienza University of Rome, December 2023
 * Department of Economics and Finance, University of Rome Tor Vergata, December 2023
 * Munich Research Institute for the Economics of Aging (MEA), Munich, Germany, October 2023
@@ -29,8 +31,6 @@ RESEARCH VISITS
 HONORS & AWARDS
 ======
 * Kuznets Prize for the Best Paper, Journal of Population Economics, 2025
-* 
-Award for the best paper published in the Journal of Population Economics in the year 2024	
 * Sign Up! For Your Career in Max Planck Society Scholar, 2025
 * AIES Young Research Award, 2023
 * NDIRA Scholar, University of Minnesota, 2022
