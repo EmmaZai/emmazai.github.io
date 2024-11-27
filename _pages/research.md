@@ -12,6 +12,7 @@ _Journals of Gerontology Series B: Psychological Sciences and Social Sciences_, 
 
 ## [Are the Grandparents Alright? The Health Consequences of Grandparental Childcare Provision](https://doi.org/10.1007/s00148-024-01044-5) 
 (with [Peter Eibich](https://sites.google.com/site/eibichpe/home)), _Journal of Population Economics_, 2024, 37, 71
+
 _Winner for Kuznets Prize for the Best Paper in 2025_
 
 ## [Evaluating the Health Outcomes of Aging in Place: The Role of Medicaid Aging Waiver Program on U.S. Older Adults](https://doi.org/10.1186/s12889-024-19498-3)
