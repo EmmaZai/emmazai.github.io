@@ -22,6 +22,8 @@ EDUCATION
 
 RESEARCH VISITS
 ======
+* School of Public Policy and Administration, Xi'an Jiao Tong University, January, 2025
+* Institute for Economic and Social Research (IESR), Jinan University, December, 2024
 * Department of Economic Analysis, Universidad Autónoma de Madrid (UAM), June 2024
 * Department of Consumer Sciences, the Ohio State University, April, 2024
 * Department of Social Science, Sapienza University of Rome, December 2023
