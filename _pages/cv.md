@@ -6,11 +6,11 @@ author_profile: true
 redirect_from:
   - /cv
 ---
-
+<!--
 {% include base_path %}
-/*
+
 [*Resume PDF*](http://emmazai.github.io/files/cv_update.pdf)
-*/
+-->
 
 
 EDUCATION
