@@ -11,8 +11,7 @@ Publications
 
 _Journals of Gerontology Series B: Psychological Sciences and Social Sciences_, 2024, gbae168
 
-## [Are the Grandparents Alright? The Health Consequences of Grandparental Childcare Provision](https://doi.org/10.1007/s00148-024-01044-5) 
-(with [Peter Eibich](https://sites.google.com/site/eibichpe/home))
+## [Are the Grandparents Alright? The Health Consequences of Grandparental Childcare Provision](https://doi.org/10.1007/s00148-024-01044-5) (with [Peter Eibich](https://sites.google.com/site/eibichpe/home))
 
 _Journal of Population Economics_, 2024, 37, 71
 
@@ -26,13 +25,11 @@ _BMC Public Health_, 2024, 24, 2104
 
  _Economics and Human Biology_, 2024, 53, 101379
  
-## [Assessing the Impact of Public Insurance on Healthcare Utilization and Mortality: A Nationwide Study in China](https://doi.org/10.1016/j.ssmph.2024.101615) 
-(with Lin Lin)
+## [Assessing the Impact of Public Insurance on Healthcare Utilization and Mortality: A Nationwide Study in China](https://doi.org/10.1016/j.ssmph.2024.101615) (with Lin Lin)
 
 _SSM - Population Health_, 2024, 25, 101615
 
-## [Valuing Primary Schools in Urban China](https://doi.org/10.1016/j.jue.2019.103183)
-with ([Jimmy Chan](https://jimmyhingchan.weebly.com/), [Zhi Wang](https://zhiwang2013brownecon.weebly.com/), [Qinghua Zhang](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=zhangq), and Xian Fang)
+## [Valuing Primary Schools in Urban China](https://doi.org/10.1016/j.jue.2019.103183) with ([Jimmy Chan](https://jimmyhingchan.weebly.com/), [Zhi Wang](https://zhiwang2013brownecon.weebly.com/), [Qinghua Zhang](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=zhangq), and Xian Fang)
 
 _Journal of Urban Economics_, 2020, 115, 103183
 
