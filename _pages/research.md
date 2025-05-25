@@ -29,7 +29,7 @@ _BMC Public Health_, 2024, 24, 2104
 
 _SSM - Population Health_, 2024, 25, 101615
 
-## [Valuing Primary Schools in Urban China](https://doi.org/10.1016/j.jue.2019.103183) with ([Jimmy Chan](https://jimmyhingchan.weebly.com/), [Zhi Wang](https://zhiwang2013brownecon.weebly.com/), [Qinghua Zhang](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=zhangq), and Xian Fang)
+## [Valuing Primary Schools in Urban China](https://doi.org/10.1016/j.jue.2019.103183) (with [Jimmy Chan](https://jimmyhingchan.weebly.com/), [Zhi Wang](https://zhiwang2013brownecon.weebly.com/), [Qinghua Zhang](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=zhangq), and Xian Fang)
 
 _Journal of Urban Economics_, 2020, 115, 103183
 
