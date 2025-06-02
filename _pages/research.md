@@ -7,11 +7,15 @@ author_profile: true
 
 Publications
 ======
+## [Evaluating the Impact of Long-Term Care Insurance Reform on Health-Related Quality of Life and Inequality Among Older Adults in China: A Quasi-Experimental Analysis] (https://doi.org/10.1016/j.ehb.2025.101495)([Replication](https://doi.org/10.17605/OSF.IO/XJBPF))
+
+_Economics and Human Biology_, 2025, 101495
+
 ## [The Unseen Shift: How Partnership Long-Term Care Insurance Influences Caregiving Among Older Adults](https://doi.org/10.1093/geronb/gbae168)
 
 _Journals of Gerontology Series B: Psychological Sciences and Social Sciences_, 2024, gbae168
 
-## [Are the Grandparents Alright? The Health Consequences of Grandparental Childcare Provision](https://doi.org/10.1007/s00148-024-01044-5) (with [Peter Eibich](https://sites.google.com/site/eibichpe/home))
+## [Are the Grandparents Alright? The Health Consequences of Grandparental Childcare Provision](https://doi.org/10.1007/s00148-024-01044-5) (with [Peter Eibich](https://sites.google.com/site/eibichpe/home)) ([Correction](https://emmazai.github.io/files/Correction_notice_for_website.pdf)) ([Replication](https://doi.org/10.17605/OSF.IO/2PM6R))
 
 _Journal of Population Economics_, 2024, 37, 71
 
