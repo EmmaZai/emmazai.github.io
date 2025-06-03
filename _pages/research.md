@@ -29,7 +29,7 @@ _BMC Public Health_, 2024, 24, 2104
 
  _Economics and Human Biology_, 2024, 53, 101379
  
-## [Assessing the Impact of Public Insurance on Healthcare Utilization and Mortality: A Nationwide Study in China](https://doi.org/10.1016/j.ssmph.2024.101615) (with Lin Lin)
+## [Assessing the Impact of Public Insurance on Healthcare Utilization and Mortality: A Nationwide Study in China](https://doi.org/10.1016/j.ssmph.2024.101615) (with Lin Lin) [[Replication] (https://doi.org/10.17605/OSF.IO/XJBPF)]
 
 _SSM - Population Health_, 2024, 25, 101615
 
