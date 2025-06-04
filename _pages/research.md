@@ -9,7 +9,7 @@ Publications
 ======
 ## [Evaluating the Impact of Long-Term Care Insurance Reform on Health-Related Quality of Life and Inequality Among Older Adults in China: A Quasi-Experimental Analysis](https://doi.org/10.1016/j.ehb.2025.101495) (with Lin Lin and Min He) [[Replication](https://doi.org/10.17605/OSF.IO/XJBPF)]
 
-_Economics and Human Biology_, 2025, 101495
+_Economics and Human Biology_, 2025, 58, 101495
 
 ## [The Unseen Shift: How Partnership Long-Term Care Insurance Influences Caregiving Among Older Adults](https://doi.org/10.1093/geronb/gbae168)
 
