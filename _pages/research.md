@@ -7,6 +7,11 @@ author_profile: true
 
 Publications
 ======
+<!--
+## [The role of supply responses in public insurance expansion: Evidence from the New Cooperative Medical Scheme in China]() (with Lin Lin) [[Replication](https://doi.org/10.17605/OSF.IO/4HP83)]
+_BMC Health Services Research_, 2025, 
+-->
+
 ## [Evaluating the Impact of Long-Term Care Insurance Reform on Health-Related Quality of Life and Inequality Among Older Adults in China: A Quasi-Experimental Analysis](https://doi.org/10.1016/j.ehb.2025.101495) (with Lin Lin and Min He) [[Replication](https://doi.org/10.17605/OSF.IO/XJBPF)]
 
 _Economics and Human Biology_, 2025, 58, 101495
@@ -29,7 +34,7 @@ _BMC Public Health_, 2024, 24, 2104
 
  _Economics and Human Biology_, 2024, 53, 101379
  
-## [Assessing the Impact of Public Insurance on Healthcare Utilization and Mortality: A Nationwide Study in China](https://doi.org/10.1016/j.ssmph.2024.101615) (with Lin Lin) [[Replication](https://doi.org/10.17605/OSF.IO/XJBPF)]
+## [Assessing the Impact of Public Insurance on Healthcare Utilization and Mortality: A Nationwide Study in China](https://doi.org/10.1016/j.ssmph.2024.101615) (with Lin Lin) [[Replication](https://doi.org/10.17605/OSF.IO/AHJ3P)]
 
 _SSM - Population Health_, 2024, 25, 101615
 
