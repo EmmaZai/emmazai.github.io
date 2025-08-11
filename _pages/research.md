@@ -7,6 +7,8 @@ author_profile: true
 
 Publications
 ======
+<!--## [From Criticism to Comfort: The Relational Benefits of Long-Term Care Insurance]([https://doi.org/10.1186/s12913-025-13090-0](https://doi.org/10.1111/1475-6773.70026)  [[Replication](https://doi.org/10.17605/OSF.IO/4HP83)]
+_Health Services Research_, 2025,  -->
 
 ## [The role of supply responses in public insurance expansion: Evidence from the New Cooperative Medical Scheme in China](https://doi.org/10.1186/s12913-025-13090-0) (with Lin Lin) [[Replication](https://doi.org/10.17605/OSF.IO/4HP83)]
 _BMC Health Services Research_, 2025, 25, 955
