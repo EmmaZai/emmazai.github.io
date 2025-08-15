@@ -11,7 +11,7 @@ Publications
 _Health Services Research_, 2025
 <!--[[Replication](https://doi.org/10.17605/OSF.IO/VR6SA)]-->
 
-## [The role of supply responses in public insurance expansion: Evidence from the New Cooperative Medical Scheme in China](https://doi.org/10.1186/s12913-025-13090-0) (with Lin Lin) [[Replication](https://doi.org/10.17605/OSF.IO/4HP83)]
+## [The Role of Supply Responses in Public Insurance Expansion: Evidence from the New Cooperative Medical Scheme in China](https://doi.org/10.1186/s12913-025-13090-0) (with Lin Lin) [[Replication](https://doi.org/10.17605/OSF.IO/4HP83)]
 _BMC Health Services Research_, 2025, 25, 955
 
 ## [Evaluating the Impact of Long-Term Care Insurance Reform on Health-Related Quality of Life and Inequality Among Older Adults in China: A Quasi-Experimental Analysis](https://doi.org/10.1016/j.ehb.2025.101495) (with Lin Lin and Min He) [[Replication](https://doi.org/10.17605/OSF.IO/XJBPF)]
