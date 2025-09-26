@@ -7,6 +7,10 @@ author_profile: true
 
 Publications
 ======
+<!--## 
+[Disparities In Cancer Incidence, Stage At Diagnosis, Treatment, and Mortality Across Socioeconomic Groups In Finland]() (with Peng Li, Luca Dei Bardi, Kaarina Korhonen, Margherita Moretti, Mikko Myrskylä, and Pekka Martikainen) 
+_BMJ Public Health_. 2025-->
+
 ## [From Criticism to Comfort: The Relational Benefits of Long-Term Care Insurance](https://doi.org/10.1111/1475-6773.70026)
 _Health Services Research_, 2025
 <!--[[Replication](https://doi.org/10.17605/OSF.IO/VR6SA)]-->
@@ -26,7 +30,7 @@ _Journals of Gerontology Series B: Psychological Sciences and Social Sciences_, 
 
 _Journal of Population Economics_, 2024, 37, 71
 
-[_Winner for Kuznets Prize for the Best Paper in 2025_](https://glabor.org/global-glo-jope-conference-2024-december-4-7-2024/)
+[Winner for Kuznets Prize for the Best Paper in 2025_](https://glabor.org/global-glo-jope-conference-2024-december-4-7-2024/)
 
 ## [Evaluating the Health Outcomes of Aging in Place: The Role of Medicaid Aging Waiver Program on U.S. Older Adults](https://doi.org/10.1186/s12889-024-19498-3)
 
@@ -52,6 +56,7 @@ _Journal of Urban Economics_, 2020, 115, 103183
 <!--
 Working Papers
 ======
+
 ## [The Unintended Effect of Medicaid Aging Waivers on Informal Caregiving](https://emmazai.github.io/files/MAW_care.pdf)
 
 (with [Yinan Liu](https://www.ynliu.com/) )
