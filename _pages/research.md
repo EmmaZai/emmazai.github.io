@@ -8,7 +8,7 @@ author_profile: true
 Publications
 ======
 ## [Disparities In Cancer Incidence, Stage At Diagnosis, Treatment, and Mortality Across Socioeconomic Groups In Finland](https://doi.org/10.1136/bmjph-2025-002829) (with Peng Li, Luca Dei Bardi, Kaarina Korhonen, Margherita Moretti, Mikko Myrskylä, and Pekka Martikainen) 
-_BMJ Public Health_. 2025
+_BMJ Public Health_. 2025, 3:e002829
 
 ## [From Criticism to Comfort: The Relational Benefits of Long-Term Care Insurance](https://doi.org/10.1111/1475-6773.70026) [[Replication](https://doi.org/10.17605/OSF.IO/VR6SA)]
 _Health Services Research_, 2025
