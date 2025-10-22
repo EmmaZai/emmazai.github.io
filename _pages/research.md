@@ -7,13 +7,11 @@ author_profile: true
 
 Publications
 ======
-<!--## 
-[Disparities In Cancer Incidence, Stage At Diagnosis, Treatment, and Mortality Across Socioeconomic Groups In Finland]() (with Peng Li, Luca Dei Bardi, Kaarina Korhonen, Margherita Moretti, Mikko Myrskylä, and Pekka Martikainen) 
-_BMJ Public Health_. 2025-->
+## [Disparities In Cancer Incidence, Stage At Diagnosis, Treatment, and Mortality Across Socioeconomic Groups In Finland](https://doi.org/10.1136/bmjph-2025-002829) (with Peng Li, Luca Dei Bardi, Kaarina Korhonen, Margherita Moretti, Mikko Myrskylä, and Pekka Martikainen) 
+_BMJ Public Health_. 2025
 
-## [From Criticism to Comfort: The Relational Benefits of Long-Term Care Insurance](https://doi.org/10.1111/1475-6773.70026)
+## [From Criticism to Comfort: The Relational Benefits of Long-Term Care Insurance](https://doi.org/10.1111/1475-6773.70026) [[Replication](https://doi.org/10.17605/OSF.IO/VR6SA)]
 _Health Services Research_, 2025
-<!--[[Replication](https://doi.org/10.17605/OSF.IO/VR6SA)]-->
 
 ## [The Role of Supply Responses in Public Insurance Expansion: Evidence from the New Cooperative Medical Scheme in China](https://doi.org/10.1186/s12913-025-13090-0) (with Lin Lin) [[Replication](https://doi.org/10.17605/OSF.IO/4HP83)]
 _BMC Health Services Research_, 2025, 25, 955
@@ -22,7 +20,7 @@ _BMC Health Services Research_, 2025, 25, 955
 
 _Economics and Human Biology_, 2025, 58, 101495
 
-## [The Unseen Shift: How Partnership Long-Term Care Insurance Influences Caregiving Among Older Adults](https://doi.org/10.1093/geronb/gbae168)
+## [The Unseen Shift: How Partnership Long-Term Care Insurance Influences Caregiving Among Older Adults](https://doi.org/10.1093/geronb/gbae168) [[Replication](https://doi.org/10.17605/OSF.IO/PDW23)]
 
 _Journals of Gerontology Series B: Psychological Sciences and Social Sciences_, 2024, gbae168
 
@@ -69,9 +67,7 @@ Working Papers
 
 (with [Yinan Liu](https://www.ynliu.com/) ) 
 
-## [The Role of Supply Responses in Public Insurance Expansion: Evidence from China's New Cooperative Medical Scheme](https://emmazai.github.io/files/ncms_supply.pdf) 
-
-(with [Lin Lin](https://faculty.ecnu.edu.cn/_s35/ll2_en_17023/main.psp)) -->
+-->
 
 
 
