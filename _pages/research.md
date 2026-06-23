@@ -7,6 +7,10 @@ author_profile: true
 
 Publications
 ======
+<!--
+## [Sex of Surgeons and Team Composition and Patients’ Length of Stay After Surgery: Evidence from Inpatient Claims Data in China]() [[Replication](https://shumchi.github.io/notebooks/Composition_and_Patients_LOSAS.html)]
+_BMC Medicine_, 2026, -->
+
 ## [Formal Long-Term Care Expansions and Their Ripple Effects on Family Care, Health, and Work](https://doi.org/10.1016/j.socscimed.2026.119216) [[Replication](https://doi.org/10.17605/OSF.IO/4E8Y7)]
 _Social Science & Medicine_, 2026, 119216
 
