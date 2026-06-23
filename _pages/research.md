@@ -7,10 +7,8 @@ author_profile: true
 
 Publications
 ======
-<!--
 ## [Formal Long-Term Care Expansions and Their Ripple Effects on Family Care, Health, and Work](https://doi.org/10.1016/j.socscimed.2026.119216) [[Replication](https://doi.org/10.17605/OSF.IO/4E8Y7)]
 _Social Science & Medicine_, 2026, 119216
--->
 
 ## [Disparities in Cancer Incidence, Stage at Diagnosis, Treatment, and Mortality Across Socioeconomic Groups in Finland](https://doi.org/10.1136/bmjph-2025-002829) (with Peng Li, Luca Dei Bardi, Kaarina Korhonen, Margherita Moretti, Mikko Myrskylä, and Pekka Martikainen) 
 _BMJ Public Health_. 2025, 3:e002829
