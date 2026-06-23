@@ -22,6 +22,7 @@ EDUCATION
 
 RESEARCH VISITS
 ======
+* ETH Zurich, D-MTEC, Chair of Integrative Risk Management and Economics, Zurich, Switzerland, July 2026
 * School of Public Policy and Administration, Xi'an Jiao Tong University, January, 2025
 * Institute for Economic and Social Research (IESR), Jinan University, December, 2024
 * Department of Economic Analysis, Universidad Autónoma de Madrid (UAM), June 2024
